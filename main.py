@@ -1,1 +1,1 @@
-print("Start Game")
+print("Start Application")
